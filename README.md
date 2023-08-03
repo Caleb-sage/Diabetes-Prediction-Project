@@ -7,17 +7,17 @@ The `diabetes_prediction_dataset.csv` file contains 100,000 rows and 9 columns, 
 ## Notebook:
 The `notebook.ipynb` Jupyter Notebook file contains the code and analysis for the diabetes prediction project. 
 It includes steps such as importing libraries and data, 
--- removing duplicates --
--- data visualization --
--- one-hot encoding --
--- normalizing data using MinMaxScaler --
--- balancing class values using SMOTE --
--- training algorithms with different hyperparameters -- 
--- splitting data into training/testing/validating datasets --
--- training a Random Forest Classifier -- 
--- calculating accuracy score -- 
--- creating a confusion matrix and classification report -- 
--- applying PCA for dimensionality reduction and re-training the model -- 
+- removing duplicates --
+- data visualization --
+- one-hot encoding --
+- normalizing data using MinMaxScaler --
+- balancing class values using SMOTE --
+- training algorithms with different hyperparameters -- 
+- splitting data into training/testing/validating datasets --
+- training a Random Forest Classifier -- 
+- calculating accuracy score -- 
+- creating a confusion matrix and classification report -- 
+- applying PCA for dimensionality reduction and re-training the model -- 
 Please refer to the `notebook.ipynb` file for detailed code implementation and further analysis.
 
 ## Steps
